@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingASPDotNETWebAPI2", "UnitTestingASPDotNETWebAPI2\UnitTestingASPDotNETWebAPI2.csproj", "{8C3D842B-7DD8-4986-8F4A-820B4FD18256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestingASPDotNETWebAPI2.Tests", "UnitTestingASPDotNETWebAPI2.Tests\UnitTestingASPDotNETWebAPI2.Tests.csproj", "{E4169AF6-99F5-443C-B9CD-6F1C685CE0C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C3D842B-7DD8-4986-8F4A-820B4FD18256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3D842B-7DD8-4986-8F4A-820B4FD18256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3D842B-7DD8-4986-8F4A-820B4FD18256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3D842B-7DD8-4986-8F4A-820B4FD18256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4169AF6-99F5-443C-B9CD-6F1C685CE0C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4169AF6-99F5-443C-B9CD-6F1C685CE0C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4169AF6-99F5-443C-B9CD-6F1C685CE0C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4169AF6-99F5-443C-B9CD-6F1C685CE0C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
